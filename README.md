@@ -7,6 +7,8 @@ Rust tools to replace everything!
 
 [Nushell](https://www.nushell.sh) - new type of shell
 
+[Sharship](https://starship.rs) - The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
 ## Terminal
 
 [Warp](https://www.warp.dev) - WARP IS A BLAZINGLY FAST, RUST-BASED TERMINAL REIMAGINED FROM THE GROUND UP TO WORK LIKE A MODERN APP.
