@@ -21,4 +21,10 @@ Rust tools to replace everything!
 
 [Zellij](https://zellij.dev) - A terminal workspace with batteries included.
 
+## Code Editor
+
+[Helix](https://helix-editor.com) - A post-modern text editor.
+
+[Lapse](https://lapce.dev) - A modern open source code editor in Rust.
+
 
