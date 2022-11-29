@@ -21,6 +21,10 @@ Rust tools to replace everything!
 
 [Zellij](https://zellij.dev) - A terminal workspace with batteries included.
 
+## Tiling Window Manager
+
+[LeftWM](http://leftwm.org) - Left is a tiling window manager written in rust for stability and performance.
+
 ## Code Editor
 
 [Helix](https://helix-editor.com) - A post-modern text editor.
